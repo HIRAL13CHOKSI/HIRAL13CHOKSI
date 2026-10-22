@@ -4,12 +4,6 @@
   <img alt="Hiral Choksi — MS Computer Science at UConn; Applied AI, Machine Learning and Data Science" src="./assets/banner-light.svg" width="100%">
 </picture>
 
-<p align="center">
-  <a href="https://github.com/HIRAL13CHOKSI?tab=repositories"><strong>↗ View My Projects</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hiralchoksi/"><strong>Connect on LinkedIn ↗</strong></a>
-</p>
-
 Master’s student in Computer Science at the University of Connecticut  
 **Graduating December 2026 · Available for full-time roles starting January 2027**
 
