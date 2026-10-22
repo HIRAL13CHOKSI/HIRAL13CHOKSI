@@ -9,10 +9,10 @@ I’m seeking opportunities in **Data Science, Applied AI, and Machine Learning*
 
 ## Selected Projects
 
-### [README Generation AI](https://github.com/HIRAL13CHOKSI/-readme-gen-ai)
+### [LLM-Powered README Generator](https://github.com/HIRAL13CHOKSI/-readme-gen-ai)
 **Python · LLM APIs · AST Analysis**
 
-A tool for generating documentation from Python scripts using OpenAI or Gemini models. Includes optional abstract syntax tree analysis and evaluation workflows comparing AST-grounded and LLM-only generation.
+Generates documentation from Python scripts using AST-based code analysis and large language models. Includes evaluation workflows for AST-grounded generation and an LLM-only baseline.
 
 ### [Tobacco Tax & Consumption Analysis](https://github.com/HIRAL13CHOKSI/tobacco-tax-consumption-analysis)
 **pandas · Plotly Dash · scikit-learn · Statistical Visualization**
