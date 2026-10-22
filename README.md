@@ -1,6 +1,8 @@
-# Hiral Choksi
-
-**Data Science · Applied AI · Machine Learning**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+  <img alt="Hiral Choksi — MS Computer Science at UConn; Applied AI, Machine Learning and Data Science" src="./assets/banner-light.svg" width="100%">
+</picture>
 
 Master’s student in Computer Science at the University of Connecticut  
 **Graduating December 2026 · Available for full-time roles starting January 2027**
