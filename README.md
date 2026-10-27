@@ -30,6 +30,11 @@ Independently developed a research workflow and interactive prototype combining 
 
 Built a zone-aware workflow connecting **16 Connecticut monitoring sites across four tidal zones**. The project report gives mean absolute timing differences of **3.75 minutes in Zone 3** and **7.00 minutes in Zone 2** compared with NOAA-predicted tides. The validation period and sample size need confirmation; see the repository for context.
 
+### [Adaptive Healthcare Chatbot](https://github.com/HIRAL13CHOKSI/adaptive-healthcare-chatbot)
+**Master's Capstone · Accessible AI · RAG · FHIR**
+
+Designed an accessibility-focused patient-portal chatbot and proposed a modular architecture for retrieval and healthcare interoperability. The capstone documents user research and a limited-scope MVP using simulated or sandbox environments.
+
 ### [Lumera AI: Rare Disease Research](https://github.com/HIRAL13CHOKSI/lumera-rare-disease-ai)
 **HackRare 2026 · Applied AI · Bioinformatics · Next.js · Node.js**
 
