@@ -36,6 +36,11 @@ Collaborated on a hackathon prototype exploring clinical trials, drug repurposin
 
 Exploratory analysis of U.S. state-level cigarette taxation and consumption patterns from 1990–2019. Includes interactive visualizations of temporal trends, geographic differences, and state clusters.
 
+### [Plant AI: Leaf Disease Detection](https://github.com/HIRAL13CHOKSI/plant-ai-disease-detection)
+**TensorFlow · MobileNet · Transfer Learning · React**
+
+A collaborative Indus University project exploring leaf-image classification and a web interface for plant disease screening. The repository includes the project poster, workflow, team credits, and a reported result with evaluation context.
+
 ### [NYC Airbnb Price Prediction](https://github.com/HIRAL13CHOKSI/nyc-airbnb-price-prediction)
 **Python · pandas · scikit-learn · Regression**
 
