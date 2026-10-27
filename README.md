@@ -41,6 +41,11 @@ Exploratory analysis of U.S. state-level cigarette taxation and consumption patt
 
 A collaborative Indus University project exploring leaf-image classification and a web interface for plant disease screening. The repository includes the project poster, workflow, team credits, and a reported result with evaluation context.
 
+### [Early Ocular Disease Detection](https://github.com/HIRAL13CHOKSI/ocular-disease-detection)
+**Python · VGG-16 · Deep Learning · Medical Imaging**
+
+Led development of an image-classification project exploring early ocular disease detection at Indus University. The project summary reports 89% accuracy; evaluation details are not yet documented.
+
 ### [NYC Airbnb Price Prediction](https://github.com/HIRAL13CHOKSI/nyc-airbnb-price-prediction)
 **Python · pandas · scikit-learn · Regression**
 
