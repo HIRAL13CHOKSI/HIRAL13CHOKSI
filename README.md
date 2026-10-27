@@ -19,6 +19,11 @@ Independently developed a research workflow and interactive prototype during my 
 
 Built a zone-aware high-tide detection workflow linking four tidal zones to 16 Connecticut monitoring locations, with a comparison against NOAA-predicted tide times.
 
+### [Lumera AI: Rare Disease Research](https://github.com/HIRAL13CHOKSI/lumera-rare-disease-ai)
+**HackRare 2026 · Applied AI · Bioinformatics · Next.js · Node.js**
+
+Collaborated on a hackathon prototype exploring clinical trials, drug repurposing, and rare-disease research. The research interface illustrates a proposed scRNA-seq augmentation and therapeutic-target discovery workflow. [Watch the team demo](https://shorturl.at/MJb8I). Selected as a NORD Scholarship recipient for HackRare 2026.
+
 ### [Tobacco Tax & Consumption Analysis](https://github.com/HIRAL13CHOKSI/tobacco-tax-consumption-analysis)
 **pandas · Plotly Dash · scikit-learn · Statistical Visualization**
 
