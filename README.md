@@ -19,11 +19,6 @@ Independently developed a research workflow and interactive prototype during my 
 
 Built a zone-aware high-tide detection workflow linking four tidal zones to 16 Connecticut monitoring locations, with a comparison against NOAA-predicted tide times.
 
-### [LLM-Powered README Generator](https://github.com/HIRAL13CHOKSI/-readme-gen-ai)
-**Python · LLM APIs · AST Analysis**
-
-Generates documentation from Python scripts using AST-based code analysis and large language models. Includes evaluation workflows for AST-grounded generation and an LLM-only baseline.
-
 ### [Tobacco Tax & Consumption Analysis](https://github.com/HIRAL13CHOKSI/tobacco-tax-consumption-analysis)
 **pandas · Plotly Dash · scikit-learn · Statistical Visualization**
 
@@ -33,6 +28,11 @@ Exploratory analysis of U.S. state-level cigarette taxation and consumption patt
 **Python · pandas · scikit-learn · Regression**
 
 Explored listing-price data and compared regression models using cross-validation and a held-out test set. The project includes data visualizations, saved results, and evaluation limitations.
+
+### [LLM-Powered README Generator](https://github.com/HIRAL13CHOKSI/-readme-gen-ai)
+**Python · LLM APIs · AST Analysis**
+
+Generates documentation from Python scripts using AST-based code analysis and large language models. Includes evaluation workflows for AST-grounded generation and an LLM-only baseline.
 
 ### [Automated Image Description](https://github.com/HIRAL13CHOKSI/AUTOMATED-IMAGE-DESCRYPTION)
 **TensorFlow Lite · Computer Vision · Flask**
