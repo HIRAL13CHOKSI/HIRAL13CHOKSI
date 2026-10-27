@@ -1,94 +1,71 @@
 <img alt="Hiral Choksi — Master’s student in Computer Science at the University of Connecticut; Applied AI, Machine Learning and Data Science" src="./assets/banner-academic.png" width="100%">
 
-Master’s student in Computer Science at the University of Connecticut  
-**Graduating December 2026 · Available for full-time roles starting January 2027**
+# Hi, I'm Hiral Choksi
 
-My projects explore how machine learning, language models, computer vision, and interactive analytics can help interpret data and build useful applications.
+**Graduate Research Assistant at UConn CIRCA | Data Science · Applied AI · Machine Learning**
 
-I’m seeking opportunities in **Data Science, Applied AI, and Machine Learning**.
+I build data-driven workflows and interactive applications across coastal resilience, healthcare and public policy. My work spans data preparation, machine learning, computer vision, geospatial analysis and communicating results through visualizations.
+
+🎓 Master's student at the University of Connecticut · Graduating December 2026  
+💼 Seeking full-time Data Science, Applied AI and Machine Learning roles starting January 2027
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiralchoksi)
+[![Email](https://img.shields.io/badge/Email-hiral.choksi.career%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hiral.choksi.career@gmail.com)
 
 ## 🌱 Currently
 
-- Pursuing a master’s in Computer Science at the University of Connecticut, graduating December 2026.
-- Working on coastal flood analysis and high-tide validation through my graduate research assistantship.
-- Exploring applied AI, machine learning, computer vision, and data visualization through research and hands-on projects.
-- Seeking full-time opportunities in Data Science, Applied AI, and Machine Learning starting January 2027.
+- Developing coastal flood analysis and high-tide validation workflows through my graduate research assistantship at CIRCA.
+- Exploring machine learning, computer vision and interactive analytics through research and applied projects.
+- Preparing for full-time opportunities in data science, applied AI and machine learning.
 
-## Selected Projects
+## Featured projects
 
 ### [MyCoast: Photo-Based Coastal Flood Analysis](https://github.com/HIRAL13CHOKSI/mycoast-flood-photo-analysis)
 **Python · Computer Vision · Geospatial Analysis · Gradio**
 
-Independently developed a research workflow and interactive prototype during my CIRCA graduate research assistantship. The project combines flood-photo analysis, reference-object detection, and environmental context to explore evidence-based flood-depth screening. [See the workflow and demonstration](https://github.com/HIRAL13CHOKSI/mycoast-flood-photo-analysis).
+Independently developed a research workflow and interactive prototype combining flood-photo analysis, reference-object detection and environmental context to explore flood-depth screening. The repository includes the workflow and demonstration.
 
 ### [Coastal High-Tide Detection & Validation](https://github.com/HIRAL13CHOKSI/connecticut-high-tide-detection)
 **Python · Time-Series Analysis · Geospatial Mapping**
 
-Built a zone-aware high-tide detection workflow linking four tidal zones to 16 Connecticut monitoring locations, with a comparison against NOAA-predicted tide times.
+Built a zone-aware workflow connecting **16 Connecticut monitoring sites across four tidal zones**. The project report gives mean absolute timing differences of **3.75 minutes in Zone 3** and **7.00 minutes in Zone 2** compared with NOAA-predicted tides. The validation period and sample size need confirmation; see the repository for context.
 
 ### [Lumera AI: Rare Disease Research](https://github.com/HIRAL13CHOKSI/lumera-rare-disease-ai)
 **HackRare 2026 · Applied AI · Bioinformatics · Next.js · Node.js**
 
-Collaborated on a hackathon prototype exploring clinical trials, drug repurposing, and rare-disease research. The research interface illustrates a proposed scRNA-seq augmentation and therapeutic-target discovery workflow. [Watch the team demo](https://shorturl.at/MJb8I). Selected as a NORD Scholarship recipient for HackRare 2026.
+Collaborated on a hackathon prototype exploring clinical trials, drug repurposing and rare-disease research. Its research interface illustrates a proposed single-cell RNA-seq augmentation and target-discovery workflow. Selected as a **NORD Scholarship recipient** for HackRare 2026. [Watch the team demo](https://shorturl.at/MJb8I).
 
 ### [Tobacco Tax & Consumption Analysis](https://github.com/HIRAL13CHOKSI/tobacco-tax-consumption-analysis)
-**pandas · Plotly Dash · scikit-learn · Statistical Visualization**
+**Python · pandas · Plotly Dash · scikit-learn**
 
-Exploratory analysis of U.S. state-level cigarette taxation and consumption patterns from 1990–2019. Includes interactive visualizations of temporal trends, geographic differences, and state clusters.
-
-### [Plant AI: Leaf Disease Detection](https://github.com/HIRAL13CHOKSI/plant-ai-disease-detection)
-**TensorFlow · MobileNet · Transfer Learning · React**
-
-A collaborative Indus University project exploring leaf-image classification and a web interface for plant disease screening. The repository includes the project poster, workflow, team credits, and a reported result with evaluation context.
-
-### [Early Ocular Disease Detection](https://github.com/HIRAL13CHOKSI/ocular-disease-detection)
-**Python · VGG-16 · Deep Learning · Medical Imaging**
-
-Led development of an image-classification project exploring early ocular disease detection at Indus University. The project summary reports 89% accuracy; evaluation details are not yet documented.
+Explored cigarette tax and consumption patterns across **51 U.S. jurisdictions from 1990–2019**, with clustering, geographic visualizations and an interactive dashboard. [Watch my project explanation](https://drive.google.com/file/d/1VQPzudktN7orBkBAI6gwrOCVk6wLSccK/view?usp=sharing).
 
 ### [NYC Airbnb Price Prediction](https://github.com/HIRAL13CHOKSI/nyc-airbnb-price-prediction)
 **Python · pandas · scikit-learn · Regression**
 
-Explored listing-price data and compared regression models using cross-validation and a held-out test set. The project includes data visualizations, saved results, and evaluation limitations.
+Compared regression models on 2019 listing data. A tuned random forest achieved a **64.08 mean absolute error on the held-out test set** in the saved notebook output. The repository documents evaluation limitations and reproducibility status.
 
-### [LLM-Powered README Generator](https://github.com/HIRAL13CHOKSI/-readme-gen-ai)
-**Python · LLM APIs · AST Analysis**
+## More projects
 
-Generates documentation from Python scripts using AST-based code analysis and large language models. Includes evaluation workflows for AST-grounded generation and an LLM-only baseline.
-
-### [Automated Image Description](https://github.com/HIRAL13CHOKSI/AUTOMATED-IMAGE-DESCRYPTION)
-**TensorFlow Lite · Computer Vision · Flask**
-
-A collaborative image-captioning application with a web interface and model inference components. The repository includes architecture documentation and example outputs.
-
-### [Music Recommendation Prototype](https://github.com/HIRAL13CHOKSI/MICROSOFT-HACKATHON-)
-**FriendliAI · FastAPI · Streamlit · Spotify · Opik**
-
-A collaborative hackathon prototype exploring conversational music recommendations through LLM inference, Spotify lookup, and model-interaction tracing.
-
-### [Geofencing AI](https://github.com/HIRAL13CHOKSI/Geofencing-AI)
-**YOLOv8 · OpenCV · Python**
-
-A computer-vision prototype exploring object detection and monitoring of predefined safe-area boundaries in video.
-
-## Technologies Across My Projects
-
-| Area | Technologies |
+| Project | Focus |
 |---|---|
-| Data Analysis | Python, pandas, NumPy |
-| Machine Learning | scikit-learn, clustering |
+| [Plant AI: Leaf Disease Detection](https://github.com/HIRAL13CHOKSI/plant-ai-disease-detection) | Collaborative MobileNet and TensorFlow project with a web interface and project poster |
+| [Early Ocular Disease Detection](https://github.com/HIRAL13CHOKSI/ocular-disease-detection) | VGG-16 medical-image classification project; reported accuracy and evaluation limitations |
+| [LLM-Powered README Generator](https://github.com/HIRAL13CHOKSI/-readme-gen-ai) | Python documentation generation with LLM APIs and AST analysis |
+| [Geofencing AI](https://github.com/HIRAL13CHOKSI/Geofencing-AI) | YOLOv8 and OpenCV prototype for monitoring video boundaries |
+| [Automated Image Description](https://github.com/HIRAL13CHOKSI/AUTOMATED-IMAGE-DESCRYPTION) | Collaborative image-captioning application using Flask and TensorFlow Lite |
+| [Music Recommendation Prototype](https://github.com/HIRAL13CHOKSI/MICROSOFT-HACKATHON-) | Collaborative hackathon prototype using LLM inference, Spotify and Streamlit |
+
+## Technologies
+
+| Area | Tools and methods |
+|---|---|
+| Data analysis | Python, pandas, NumPy, statistical analysis |
+| Machine learning | scikit-learn, regression, clustering, model evaluation |
 | Applied AI | OpenAI and Gemini APIs, FriendliAI, Python AST analysis |
-| Computer Vision | TensorFlow/Keras, TensorFlow Lite, YOLOv8, OpenCV |
-| Visualization & Applications | Plotly, Dash, Gradio, Streamlit, Flask, FastAPI |
-
-## Areas of Interest
-
-- Exploratory data analysis and statistical modeling
-- Machine learning evaluation and practical applications
-- Generative AI and AI-assisted developer tools
-- Computer vision and interactive analytical applications
+| Computer vision | TensorFlow/Keras, TensorFlow Lite, YOLOv8, OpenCV |
+| Visualization and applications | Plotly, Dash, Gradio, Streamlit, Flask, FastAPI |
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiralchoksi)
-[![Email](https://img.shields.io/badge/Email-hiral.choksi.career%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hiral.choksi.career@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/hiralchoksi) · [hiral.choksi.career@gmail.com](mailto:hiral.choksi.career@gmail.com)
