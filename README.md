@@ -81,4 +81,4 @@ A computer-vision prototype exploring object detection and monitoring of predefi
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiralchoksi)
-
+[![Email](https://img.shields.io/badge/Email-hiral.choksi.career%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hiral.choksi.career@gmail.com)
