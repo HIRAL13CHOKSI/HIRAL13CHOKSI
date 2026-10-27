@@ -7,6 +7,13 @@ My projects explore how machine learning, language models, computer vision, and 
 
 I’m seeking opportunities in **Data Science, Applied AI, and Machine Learning**.
 
+## 🌱 Currently
+
+- Pursuing a master’s in Computer Science at the University of Connecticut, graduating December 2026.
+- Working on coastal flood analysis and high-tide validation through my graduate research assistantship.
+- Exploring applied AI, machine learning, computer vision, and data visualization through research and hands-on projects.
+- Seeking full-time opportunities in Data Science, Applied AI, and Machine Learning starting January 2027.
+
 ## Selected Projects
 
 ### [MyCoast: Photo-Based Coastal Flood Analysis](https://github.com/HIRAL13CHOKSI/mycoast-flood-photo-analysis)
@@ -71,6 +78,7 @@ A computer-vision prototype exploring object detection and monitoring of predefi
 - Generative AI and AI-assisted developer tools
 - Computer vision and interactive analytical applications
 
-## Opportunities
+## 📬 Connect
 
-Seeking **full-time Data Science, Applied AI, and Machine Learning opportunities starting January 2027**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiralchoksi)
+
