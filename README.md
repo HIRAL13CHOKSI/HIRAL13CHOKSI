@@ -1,4 +1,4 @@
-<img alt="Hiral Choksi — Data Science, Applied AI and Machine Learning portfolio; Amazon ML Challenge team rank 33, 16 coastal monitoring sites and NORD scholarship" src="./assets/profile-dashboard.svg" width="100%">
+<img alt="Hiral Choksi — Master’s student in Computer Science at the University of Connecticut; Applied AI, Machine Learning and Data Science" src="./assets/banner-academic.png" width="100%">
 
 # Hi, I'm Hiral Choksi
 
@@ -49,11 +49,6 @@ Explored cigarette tax and consumption patterns across **51 U.S. jurisdictions f
 **Python · pandas · scikit-learn · Regression**
 
 Compared regression models on 2019 listing data. A tuned random forest achieved a **64.08 mean absolute error on the held-out test set** in the saved notebook output. The repository documents evaluation limitations and reproducibility status.
-
-### [Amazon ML Challenge: Product Length Prediction](https://github.com/HIRAL13CHOKSI/Product-Length-AMAZON-CHALLENGE)
-**Team Dataholics · Rank 33 · Python · Regression**
-
-Our team placed **33rd** with a **49.46622 leaderboard score** in the Amazon ML Challenge 2023. The repository includes the leaderboard evidence, certificate and an exploratory notebook, with the public baseline distinguished from the final team solution.
 
 ## More projects
 
