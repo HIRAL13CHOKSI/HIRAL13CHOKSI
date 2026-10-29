@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="390" viewBox="0 0 1040 390" role="img" aria-label="Hiral Choksi portfolio dashboard: applied AI, machine learning, coastal research and healthcare projects">
+<rect width="1040" height="390" rx="18" fill="#0d1117"/>
+<rect x="1" y="1" width="1038" height="388" rx="17" fill="none" stroke="#303b49"/>
+<path d="M1 47H1039" stroke="#303b49"/>
+<circle cx="25" cy="25" r="5" fill="#ff6b6b"/><circle cx="43" cy="25" r="5" fill="#eabf5b"/><circle cx="61" cy="25" r="5" fill="#55d68b"/>
+<text x="85" y="30" fill="#99a9ba" font-family="monospace" font-size="13">hiral@github: ~/portfolio</text>
+<text x="36" y="91" fill="#63e6be" font-family="monospace" font-size="15">$ whoami</text>
+<text x="36" y="139" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="37" font-weight="700">Hiral Choksi</text>
+<text x="36" y="170" fill="#bbc8d8" font-family="Arial,sans-serif" font-size="18">Data Science · Applied AI · Machine Learning</text>
+<text x="36" y="200" fill="#91a1b4" font-family="Arial,sans-serif" font-size="15">Graduate Research Assistant · UConn CIRCA</text>
+<rect x="726" y="77" width="276" height="122" rx="12" fill="#12251f" stroke="#2c6754"/>
+<circle cx="747" cy="101" r="4" fill="#63e6be"/>
+<text x="760" y="106" fill="#63e6be" font-family="monospace" font-size="12">CAREER / NEXT CHAPTER</text>
+<text x="746" y="143" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="26" font-weight="700">January 2027</text>
+<text x="746" y="173" fill="#b7cec4" font-family="Arial,sans-serif" font-size="14">Full-time availability</text>
+<rect x="36" y="235" width="308" height="112" rx="12" fill="#151c26" stroke="#303b49"/>
+<text x="55" y="260" fill="#8ea4ba" font-family="monospace" font-size="11">COMPETITIVE MACHINE LEARNING</text>
+<text x="55" y="298" fill="#63e6be" font-family="Arial,sans-serif" font-size="29" font-weight="700">Rank 33</text>
+<text x="55" y="326" fill="#bbc8d8" font-family="Arial,sans-serif" font-size="13">Team Dataholics · Amazon ML Challenge 2023</text>
+<rect x="366" y="235" width="308" height="112" rx="12" fill="#151c26" stroke="#303b49"/>
+<text x="385" y="260" fill="#8ea4ba" font-family="monospace" font-size="11">COASTAL RESEARCH</text>
+<text x="385" y="298" fill="#70cfff" font-family="Arial,sans-serif" font-size="29" font-weight="700">16 sites · 4 zones</text>
+<text x="385" y="326" fill="#bbc8d8" font-family="Arial,sans-serif" font-size="13">Connecticut high-tide analysis</text>
+<rect x="696" y="235" width="308" height="112" rx="12" fill="#151c26" stroke="#303b49"/>
+<text x="715" y="260" fill="#8ea4ba" font-family="monospace" font-size="11">HEALTHCARE AI / HACKRARE 2026</text>
+<text x="715" y="298" fill="#c4b5fd" font-family="Arial,sans-serif" font-size="29" font-weight="700">NORD Scholar</text>
+<text x="715" y="326" fill="#bbc8d8" font-family="Arial,sans-serif" font-size="13">Lumera · Rare-disease research prototype</text>
+<text x="36" y="373" fill="#64788d" font-family="monospace" font-size="11">RESEARCH / BUILD / EVALUATE / COMMUNICATE</text>
+</svg>
